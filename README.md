@@ -1,2 +1,2 @@
-# TE-LRseq-Analysis-
+# TE-LRseq-Analysis
 Identify TEs in LR-seq data
